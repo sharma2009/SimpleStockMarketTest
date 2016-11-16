@@ -1,4 +1,4 @@
-# Neha Sharma test solution for :- JP Morgan - Super Simple Stock Market
+# Test solution for :- JP Morgan - Super Simple Stock Market
 
 #### How to get it started :) ####:
 1. Open the command prompt/terminal
