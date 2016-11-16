@@ -10,7 +10,7 @@ mvn clean package
 java -jar target/stock-market-app-1.0-SNAPSHOT.jar
 6. Application will execute and will ask for options for operations to be performed like this:-
 
-Neha Sharma - Super simple stock market Application test
+Super simple stock market Application test
 Please select the operation from 0..5 to be performed on stock
 1: Calculate dividend yield for stock
 2: Calculate P/E ratio for stock
